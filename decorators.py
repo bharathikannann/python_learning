@@ -1,6 +1,7 @@
 # Decortors can be applied to functions, methods, classes and even modules
 # Usage: @decorator_name or @decorator_name(args) or @decorator_name(args, kwargs) before the function definition
 # Decorators can be chained together, e.g. @decorator1 @decorator2 @decorator3
+# Useful links: https://towardsdatascience.com/5-real-handy-python-decorators-for-analyzing-debugging-your-code-c22067318d47
 
 # Available decorators:
 #   - timeit
