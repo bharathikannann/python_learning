@@ -1,4 +1,7 @@
-## A simple blockchain implementation in Python made for learning purposes
+# A simple blockchain implementation in Python made for learning purposes.
+# This is just the concept of blockchain and not a real implementation. 
+# For a simple demo of a cryptocurrency built on top of this code, check out https://github.com/bharathikannann/bcoin
+# Inspired by https://www.udemy.com/course/build-your-blockchain-az/
 
 #Libraries
 # Flask==0.12.2
