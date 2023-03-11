@@ -13,3 +13,18 @@ example_model = torch.nn.Linear(10, 10)
 del example_model
 gc.collect()
 torch.cuda.empty_cache()
+
+
+class ExampleModel(torch.nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.linear = torch.nn.Linear(10, 10)
+
+    def forward(self, x):
+        return self.linear(x)
+
+# -----------------------Detach the model from the graph-----------------------
+
+example_tensor = torch.rand(10, 10)
+example_output = example_model(example_tensor).detach()
+
