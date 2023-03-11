@@ -1,0 +1,12 @@
+deep_learning/pytorch/bin/cifar_net.pth
+deep_learning/pytorch/bin/trace.json
+deep_learning/pytorch/bin/data/cifar-10-python.tar.gz
+deep_learning/pytorch/bin/data/cifar-10-batches-py/batches.meta
+deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_1
+deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_2
+deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_3
+deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_4
+deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_5
+deep_learning/pytorch/bin/data/cifar-10-batches-py/readme.html
+deep_learning/pytorch/bin/data/cifar-10-batches-py/test_batch
+deep_learning/pytorch/bin/profiler_recipe.ipynb
