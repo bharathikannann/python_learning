@@ -10,3 +10,6 @@ deep_learning/pytorch/bin/data/cifar-10-batches-py/data_batch_5
 deep_learning/pytorch/bin/data/cifar-10-batches-py/readme.html
 deep_learning/pytorch/bin/data/cifar-10-batches-py/test_batch
 deep_learning/pytorch/bin/profiler_recipe.ipynb
+bin/
+deep_learning/pytorch/bin/FlameGraph
+deep_learning/pytorch/bin/FlameGraph
